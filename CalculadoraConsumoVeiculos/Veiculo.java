@@ -5,7 +5,7 @@ public class Veiculo {
     String modelo;
     String combustivel;
     double tanque;
-    double eficiencia; // Eficiência em km/litro
+    double eficiencia;
 
     public Veiculo(String m, String mod, String comb, double tanq, double efic) {
         marca = m;
